@@ -1,0 +1,3 @@
+<logger name="ACHILLES_DML_STATEMENT">
+    <level value="DEBUG" />
+</logger>
